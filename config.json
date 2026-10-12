@@ -1,0 +1,13 @@
+{
+  "repos": {
+    "root-project/root": {"labels": ["*"]},
+    "compiler-research/CppInterOp": {"labels": ["*"]},
+    "openvinotoolkit/openvino": {"labels": ["*"]},
+    "openvinotoolkit/openvino.genai": {"labels": ["*"]},
+    "STEllAR-GROUP/hpx": {"labels": ["*"]},
+    "llvm/llvm-project": {
+      "labels": ["good first issue"],
+      "note": "LLVM's AI policy forbids using AI tools to fix good first issues. Fix these yourself, no AI help."
+    }
+  }
+}
